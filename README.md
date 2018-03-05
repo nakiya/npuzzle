@@ -14,7 +14,14 @@ You will need [Leiningen][1] 2.0 or above installed.
 
 To start a web server for the application, run:
 
+    lein figwheel
+    lein garden once
+    lein garden auto
     lein run 
+    
+    Point your browser to [npuzzle][2]
+
+[2]: http://localhost/3000/puzzle
 
 ## License
 

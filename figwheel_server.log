@@ -1387,3 +1387,5 @@ notifying browser that file changed:  target/cljsbuild/public/js/out/npuzzle/eve
 Compiling build :app to "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...
 [32mSuccessfully compiled build :app to "target/cljsbuild/public/js/app.js" in 4.14 seconds.[0m
 notifying browser that file changed:  target/cljsbuild/public/js/out/npuzzle/events.js
+Notifying browser that CSS file changed: resources/public/css/screen.css
+Notifying browser that CSS file changed: resources/public/css/screen.css
