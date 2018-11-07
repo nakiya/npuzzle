@@ -19,7 +19,7 @@ To start a web server for the application, run:
     lein garden auto
     lein run 
     
-    Point your browser to [npuzzle][2]
+Point your browser to [npuzzle][2]
 
 [2]: http://localhost/3000/puzzle
 
